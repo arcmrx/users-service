@@ -10,7 +10,7 @@ require (
 	gorm.io/gorm v1.30.1
 )
 
-require github.com/arcmrx/project-protos v0.0.0-20250817113810-38786f90e209
+require github.com/arcmrx/project-protos v0.0.0-20250817125046-d624fb194a44
 
 require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect
