@@ -10,7 +10,7 @@ require (
 	gorm.io/gorm v1.30.1
 )
 
-require github.com/arcmrx/project-protos v0.0.0-20250817125046-d624fb194a44
+require github.com/arcmrx/project-protos v0.0.0-20250819163552-60d77ef8b35d
 
 require (
 	github.com/jackc/pgpassfile v1.0.0 // indirect
@@ -25,5 +25,5 @@ require (
 	golang.org/x/sync v0.16.0 // indirect
 	golang.org/x/sys v0.35.0 // indirect
 	golang.org/x/text v0.28.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250811230008-5f3141c8851a // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250818200422-3122310a409c // indirect
 )
